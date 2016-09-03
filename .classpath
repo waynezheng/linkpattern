@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-pool.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-analyzers-common-4.0-dev-1021515.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-highlighter-3.5.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-memory-3.5.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-queries-3.5.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-spellchecker-3.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene-test-framework-3.5.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="src" path="/HLinkPattern"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
